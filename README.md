@@ -6,6 +6,6 @@
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=hhjkhhbgkugjnbj&show_icons=true&theme=vue" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhjkhhbgkugjnbj&exclude_repo=blue_farm&layout=compact&theme=vue" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhjkhhbgkugjnbj&exclude_repo=javascriptprojectguide&layout=compact&theme=vue" />
 
 </div>
